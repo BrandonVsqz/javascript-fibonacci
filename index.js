@@ -1,7 +1,4 @@
 function fibonacciGenerator (n) {
-//Do NOT change any of the code above 👆
-
-    //Write your code here:
   var output = [];
 
   if (n === 0) {
@@ -22,10 +19,8 @@ function fibonacciGenerator (n) {
   }
 
   return output;
-    //Return an array of fibonacci numbers starting from 0.
-
-//Do NOT change any of the code below 👇
 }
 
+// pass value through function below
 console.log(fibonacciGenerator(12));
 
